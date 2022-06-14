@@ -1,0 +1,7 @@
+C:\Users\colto\source\repos\Chrane_Final_C#\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\colto\source\repos\Chrane_Final_C#\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\colto\source\repos\Chrane_Final_C#\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\colto\source\repos\Chrane_Final_C#\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\colto\source\repos\Chrane_Final_C#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\colto\source\repos\Chrane_Final_C#\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\colto\source\repos\Chrane_Final_C#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
